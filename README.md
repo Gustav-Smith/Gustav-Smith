@@ -6,4 +6,4 @@ Sou um estudante de programação terminando a faculdade de Análise e Desenvolv
 
 Estas são algumas das linguagens, frameworks e ferramentas que eu uso ou estou aprendendo:
 
-HTML, CSS, JavaScript, Git, GitHub, VS Code, Postman, Docker, AWS, Linux.
+HTML, CSS e Java.
