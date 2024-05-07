@@ -8,7 +8,7 @@ Estas são algumas das linguagens, frameworks e ferramentas que eu uso ou estou 
 
 #Java Puro
 #Angular
-#Springbot
+#Springboot
 #PostgreSQL
 #Jenkins
 #Git e GitHub
