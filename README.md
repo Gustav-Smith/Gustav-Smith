@@ -1,14 +1,14 @@
 # Olá, eu sou Gustavo 👋
 
-Sou um estudante de programação terminei a faculdade de Análise e Desenvolvimento de Sistemas e agora estou cursando uma pós em Desenvolvimento Full Stack e Cloud Computing. Tenho estudado as tecnologias de Java, Angular, Springboot e PostgreSQL para me tornar desenvolvedor fullstack.
+E estou no início de minha jornada para me tornar um profissional de Data Science. Apaixonado por tecnologia e sempre buscando aprender, decidi mergulhar no mundo fascinante do Data Science para ajudar as equipes a fazer análises de maneira mais eficiente.
 
 ## Minhas habilidades 🛠️
 
 Estas são algumas das linguagens, frameworks e ferramentas que eu uso ou estou aprendendo:
 
-#Java Puro
-#Angular
-#Springboot
-#PostgreSQL
-#Jenkins
+#Python
+#Excel
+#Power BI
+#SQL
+#BI
 #Git e GitHub
